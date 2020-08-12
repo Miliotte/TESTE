@@ -9,6 +9,7 @@ Introdução do basico ao avançado JavaScript
 O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 - [JavaScript](https://www.javascript.com/)
+- [Node](https://nodejs.org//)
 
 ## 🗂 Como baixar e iniciar o projeto
 
