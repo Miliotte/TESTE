@@ -6,9 +6,10 @@ console.log(name.charCodeAt(4))
 //Usado para identificar o codigo do caractere
 
 console.log('Ricardo '.concat(name).concat("!"))
+//o concat é usado para concatenar ou seja juntar 
 console.log('Ricardo '+ name + "!")
 //Para concatenar pode ser usado o caractere "+" que pode ser substituido por concat
-//o concat é usado para concatenar ou seja juntar 
+
 
 console.log(name.replace('e', '3'))
 //o replace é usado para subistuir, exemplo: Miliotte passará a ser: Miliotte3
