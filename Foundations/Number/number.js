@@ -21,3 +21,7 @@ console.log(typeof media)
 
 
 console.log(7 / 0) //Infinity
+
+console.log('1'+ 1)
+
+//irá concatenar e não somar... resultado será 11
