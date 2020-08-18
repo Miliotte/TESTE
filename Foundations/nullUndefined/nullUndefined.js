@@ -1,8 +1,8 @@
 //let valor // não inicializada
-console.log(valor)
+//console.log(valor)
 
-valor = null // ausêndia de valor
-console.log(valor)
+//valor = null // ausêndia de valor
+//console.log(valor)
 //console.log(valor.toString()) //erro!
 
 const produto = {}
