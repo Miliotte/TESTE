@@ -1,4 +1,4 @@
-let valor // não inicializada
+//let valor // não inicializada
 console.log(valor)
 
 valor = null // ausêndia de valor
